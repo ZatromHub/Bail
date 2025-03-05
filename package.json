@@ -17,7 +17,7 @@
   ],
   "homepage": "https://github.com/Whiskeysockets/Baileys",
   "repository": {
-    "url": ""
+    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
